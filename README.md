@@ -23,7 +23,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://alfonsovidrio.github.io/recipe-page/)
+- Live Site URL: [Recipe page](https://alfonsovidrio.github.io/recipe-page/)
 
 ## My process
 
